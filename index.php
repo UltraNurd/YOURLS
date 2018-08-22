@@ -14,7 +14,7 @@ if ($db) {
 <!DOCTYPE html>
 <html>
 <head>
-    <title>ultranurd.net - Nicolas Ward's Shortened URLs</title>
+    <title>unrd.net - Nicolas Ward's Shortened URLs</title>
     <link rel="stylesheet" type="text/css" href="index/index.css">
     <link rel="stylesheet" type="text/css" href="index/tablesorter/style.css">
 </head>
@@ -25,9 +25,9 @@ if ($db) {
 
 <div id="header">
 	<ul class="subnav">
-		<li><a rel="me" href="http://www.ultranurd.net/">Home</a></li>
-		<li><a rel="me" href="http://blog.ultranurd.net/">Blog</a></li>
-		<li><a rel="me" href="http://twitter.com/ultranurd">Twitter</a></li>
+		<li><a rel="me" href="https://www.ultranurd.net/">Home</a></li>
+		<li><a rel="me" href="https://blog.ultranurd.net/">Blog</a></li>
+		<li><a rel="me" href="https://twitter.com/ultranurd">Twitter</a></li>
 	</ul>
 </div>
 
@@ -92,7 +92,7 @@ if ($db) {
 <div id="footer">
 	ultranurd.net/s is built with <a target="_blank" href="http://yourls.org">YOURLS</a>, <a target="_blank" href="http://jquery.com">jQuery</a> and <a target="_blank" href="http://tablesorter.com">Tablesorter</a>
 	<br>
-	&copy; copyright 2013-<?= date('Y') ?> <a target="_blank" rel="me" href="http://www.ultranurd.net">Nicolas Ward</a>
+	&copy; copyright 2013-<?= date('Y') ?> <a target="_blank" rel="me" href="https://www.ultranurd.net">Nicolas Ward</a>
 </div>
 
 <script type="text/javascript" src="js/jquery-1.4.3.min.js"></script>
